@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GrishmaMoviesApp</string>
+    <string name="error_message">Error Message</string>
+    <string name="connection_problem">Connection Problem!!</string>
+</resources>
